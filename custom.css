@@ -13,8 +13,11 @@
 }
 .content .shivs {
   font-family: 'DK Trollslayer';
+  margin-top: 10px;
   font-size: 28px;
   color: rgb(255, 17, 0);
+}
+.content .bullet .incremental {
 }
 h1 {
   font-size: 80px;
@@ -39,11 +42,9 @@ h5 {
   color: #D3C15B;
 }
 .slide {
+    padding-top: 0px;
     width: 1020px;
     height: 800px;
-    left: 50%;
-    top: 50%;
-    position: absolute;
     background-color: #DBDAD0;
     border: none
 }
@@ -79,7 +80,11 @@ code {
 .content .incremental {
   font-size: 30px;
 }
-
+img[alt=git-beyond] {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
 
 img[alt=git-bg] {
   width: 700px;
