@@ -15,7 +15,7 @@ $ bundle install
 ```bash
 $ showoff serve
 ```
-Ou online [heliohead.github.io/presention_git_github/](http://heliohead.github.io/presention_git_github/)
+Ou online [heliohead.github.io/comecando_com_git_github/](http://heliohead.github.io/comecando_com_git_github/)
 
 Caso tenha alguma sugestão
 
