@@ -7,7 +7,7 @@ por Helio Oliveira
 !SLIDE center bullets incremental transition=fade
 # About Me:
 * Usuário Unix desde 2000
-* Amante de Técnologia
+* Amante de Tecnologia
 * Cursando Análise e Desenvolvimento de Sistemas
 * ![github](github-icon.png)heliohead
 * ![twitter](twitter-icon.png)heliohead
