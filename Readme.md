@@ -5,7 +5,7 @@ Esta palestra foi gerada com [showoff](https://github.com/puppetlabs/showoff/)
 Instalar localmente
 
 ```bash
-$ git@github.com:heliohead/presention_git_github.git
+$ git clone git@github.com:heliohead/presention_git_github.git
 ```
 
 ```bash
