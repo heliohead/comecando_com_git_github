@@ -11,36 +11,34 @@
   color: #030F00;
   font-family: 'DMF Cantell';
 }
-.content .shivs {
-  font-family: 'DK Trollslayer';
-  margin-top: 10px;
-  font-size: 28px;
-  color: rgb(255, 17, 0);
-}
-.content .bullet .incremental {
-}
+
 h1 {
   font-size: 80px;
   color: #1F0957;
   font-family: 'DK Trollslayer';
 }
+
+h2 {
+  font-size: 64px;
+  color: #030F00;
+}
+
+h3 {
+  font-size: 64px;
+  font-family: monospace;
+  color: #455E38;
+}
+
+h5 {
+  color: #D3C15B;
+}
+
 .content .smalla {
   font-size: 64px;
   color: #F52314;
   font-family: 'DK Trollslayer';
 }
-h2 {
-  font-size: 64px;
-  color: #030F00;
-}
-h3 {
-  font-size: 64px;
-  font-family: monospace;
-  color: #5E7D24;
-}
-h5 {
-  color: #D3C15B;
-}
+
 .slide {
     padding-top: 0px;
     width: 1020px;
@@ -48,31 +46,38 @@ h5 {
     background-color: #DBDAD0;
     border: none
 }
+
 #preso {
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
 }
+
 #preso, .center {
     top: 1%;
     width: 1020px;
     height: 800px;
     margin-top: 1%;
 }
+
 .content .devil {
   font-family: 'Devil Inside';
   font-size: 214px;
   line-height: 100px;
 }
+
 .content .light {
   color: #FAFFC9;
 }
+
 .wordmark img {
   height: 60px;
 }
+
 .content .spacer {
   height: 40px;
 }
+
 code {
   font-size: 48px;
 }
@@ -80,21 +85,62 @@ code {
 .content .incremental {
   font-size: 30px;
 }
+
+img[alt=JavaScript]{
+  width: 100px;
+  height: 100px;
+}
+
 img[alt=git-beyond] {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
 }
 
-img[alt=git-bg] {
-  width: 700px;
-  height: 500px;
+img[alt=octocat-bg] {
+  width: 900px;
+  height: 600px;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
   bottom: 10px;
 }
 
+img[alt=git-bg] {
+  width: 900px;
+  height: 600px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  bottom: 10px;
+}
+
+img[alt=octocat] {
+  width: 100px;
+  height: 100px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+img[alt=fork] {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+img[alt=pr] {
+  width: 400px;
+  height: 300px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+img[alt=author] {
+  width: 300px;
+  height: 300px;
+}
 
 img[alt=linus] {
   width: 150px;
@@ -111,6 +157,7 @@ blockquote {
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
+
 blockquote:before {
   color: #ccc;
   content: open-quote;
@@ -119,6 +166,7 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
+
 blockquote p {
   display: inline;
   font-size: 25px;
