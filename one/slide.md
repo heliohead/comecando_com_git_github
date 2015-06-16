@@ -187,7 +187,7 @@ $ git push origin master
 * Com o comando push você envia seus commits para o repo remoto
 
 ```
-$ git fetch
+$ git pull
 ```
 ```
 $ git fetch
